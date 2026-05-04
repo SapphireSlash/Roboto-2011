@@ -3,3 +3,5 @@ The original version of Roboto.
 
 # Info
 This version of Roboto from back when the font was released in 2011 differs from the current version which was made in 2014. Most notably the squared dots on the i, j and ., and the font being less rounded than the current version.
+
+The fonts are licensed under the Apache 2.0 license.
